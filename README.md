@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://www.linkedin.com/in/aashish-solanky-a7009714b/) and ![Image](src)
+[linkedln](https://www.linkedin.com/in/aashish-solanky-a7009714b/) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
